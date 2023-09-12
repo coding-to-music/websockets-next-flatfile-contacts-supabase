@@ -1,6 +1,6 @@
 # websockets-next-flatfile-contacts-supabase
 
-# 🚀 Building a contacts management system with Websockets, NextJS, Supabase, and Flatfile 🚀
+# 🚀 Building a contacts management system with Websockets, react-spreadsheet, NextJS, Supabase, and Flatfile 🚀
 
 https://github.com/coding-to-music/websockets-next-flatfile-contacts-supabase
 
