@@ -10,6 +10,12 @@ From / By https://github.com/nevo-david/contacts
 
 https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6
 
+https://github.com/iddan/react-spreadsheet
+
+https://iddan.github.io/react-spreadsheet/storybook
+
+https://iddan.github.io/react-spreadsheet/
+
 https://flatfile.com/
 
 https://flatfile.com/docs/concepts/events
