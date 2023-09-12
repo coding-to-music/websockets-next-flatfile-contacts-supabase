@@ -1,17 +1,19 @@
 {
-  "name": "flatfile",
+  "name": "websockets-next-flatfile-contacts-supabase",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "deploy": "git add . && git commit -m 'Build' && git push",
     "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "20.4.1",
     "@types/react": "18.2.14",
     "@types/react-dom": "18.2.6",
+    "@vercel/analytics": "^1.0.2",
     "autoprefixer": "10.4.14",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",

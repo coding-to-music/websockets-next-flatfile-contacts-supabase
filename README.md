@@ -1,3 +1,58 @@
+# websockets-next-flatfile-contacts-supabase
+
+# 🚀 Building a contacts management system with Websockets, NextJS, Supabase, and Flatfile 🚀
+
+https://github.com/coding-to-music/websockets-next-flatfile-contacts-supabase
+
+https://websockets-next-flatfile-contacts-supabase.vercel.app
+
+From / By https://github.com/nevo-david/contacts
+
+https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6
+
+https://flatfile.com/
+
+https://flatfile.com/docs/concepts/events
+
+https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http/
+
+https://supabase.com/dashboard/projects
+
+<!-- <div style="text-align:center;">
+  <img src="/images/chakra.jpg" alt="Image" />
+  <p><em>Chakra Component Library with Next.js</em></p>
+</div> -->
+
+## Node Environment:
+
+```java
+nvm use 18
+```
+
+## Environment variables:
+
+see `.env.example`
+
+```java
+SECRET_KEY=
+NEXT_PUBLIC_ANON_KEY=
+NEXT_PUBLIC_FLAT_PUBLISHABLE_KEY=pk_
+FLATFILE_API_KEY=sk_
+FLATFILE_ENVIRONMENT_ID=us_env_
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/websockets-next-flatfile-contacts-supabase.git
+git push -u origin main
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
