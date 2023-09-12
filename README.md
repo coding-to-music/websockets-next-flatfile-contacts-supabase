@@ -1,10 +1,18 @@
 # websockets-next-flatfile-contacts-supabase
 
+The tutorial is not complete in that the supplied code snippets are not clear what files they go into, and the repo is only after the "npx create-next-app@latest contacts"
+
+The supplied repo is at the "hello-world" stage, it does not contain working code
+
+Looks interesting though, but following the tutorial it does not work and the repo is not the finished code.
+
 # 🚀 Building a contacts management system with Websockets, react-spreadsheet, NextJS, Supabase, and Flatfile 🚀
 
 https://github.com/coding-to-music/websockets-next-flatfile-contacts-supabase
 
 https://websockets-next-flatfile-contacts-supabase.vercel.app
+
+https://github.com/nevo-david/contacts/issues/1
 
 From / By https://github.com/nevo-david/contacts
 
